@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArchitectureAspNetCoreEF", "ArchitectureAspNetCoreEF\ArchitectureAspNetCoreEF.csproj", "{61E6D9D4-5735-4D26-8C61-34137E437B2A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArchitectureAspNetCoreEF.Core", "ArchitectureAspNetCoreEF.Core\ArchitectureAspNetCoreEF.Core.csproj", "{9C7B985F-9692-48AE-A663-5492F047ACB7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61E6D9D4-5735-4D26-8C61-34137E437B2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61E6D9D4-5735-4D26-8C61-34137E437B2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61E6D9D4-5735-4D26-8C61-34137E437B2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61E6D9D4-5735-4D26-8C61-34137E437B2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C7B985F-9692-48AE-A663-5492F047ACB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C7B985F-9692-48AE-A663-5492F047ACB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C7B985F-9692-48AE-A663-5492F047ACB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C7B985F-9692-48AE-A663-5492F047ACB7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9012F5C1-0FDD-4312-BB7D-8F92B66EF62D}
+	EndGlobalSection
+EndGlobal
